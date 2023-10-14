@@ -17,6 +17,6 @@ To run this project, you need to have software installed to run and execute the 
 In this project we implemented unsupervised learning using K-Means Classification algorithm.<br>
 For complete analysis and final report: [Market Segmentation.pdf)
 ## Teammates
-ANGADI 
-AYUSH SONI
+Angadi Abhinay ,
+Ayush Soni
 - - -
